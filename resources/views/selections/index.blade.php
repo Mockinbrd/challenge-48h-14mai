@@ -1,4 +1,5 @@
 @extends('layouts.default')
+
 @section('content')
 <div class="card-group">
   <div class="card px-2">
