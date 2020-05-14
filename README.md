@@ -5,7 +5,7 @@
 **Descriptif du projet :** Site regroupant commerces et lieux touristiques classés par système de notation.<br> 
 Objectif : 
 1.	Référencement naturel
-2.	Sélections et articles(avis)
+2.	Sélections et articles (avis)
 3.	Mettre en avant les commerçants ayant contribuer (suffisamment) financièrement
 4.	Mettre en compétition les lieux entre eux pour augmenter la valeur des placements
 
