@@ -6,11 +6,12 @@
 Objectif : 
 1.	Référencement naturel
 2.	Sélections et articles (avis)
-3.	Mettre en avant les commerçants ayant contribuer (suffisamment) financièrement
-4.	Mettre en compétition les lieux entre eux pour augmenter la valeur des placements
+3.	Obtenir sufissament de visibilité pour légitimité un démarcharge
+4.	Mettre en avant les commerçants ayant contribuer (suffisamment) financièrement
+5.	Mettre en compétition les lieux entre eux pour augmenter la valeur des placements
 
 
-### Collaborateurs
+## Collaborateurs
 
 - Demaneche Antonin
 - Trouvat Jeremy
@@ -35,3 +36,11 @@ Objectif :
 -	<span style="color: #81A094"> :deciduous_tree: **Vert**</span> : Représente les différents espaces verts de la ville.
 
 -	<span style="color: #775B59">:grapes: **Rouge**</span> : Représente les monuments et restaurants qui apparaitront sur notre site. Fait référence à l'emblématique couleur du vin.
+
+<hr>
+
+## Spécificités du site
+
+<p align="left">**Sélections :**</p>
+<p align="center">**Cartes comparatives :**</p>
+<p align="right">**Bon plans :**</p>
