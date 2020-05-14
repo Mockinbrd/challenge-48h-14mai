@@ -2,7 +2,7 @@
 
 **Contexte** : Vous  êtes  une  jeune  startup  à  Bordeaux.  Vous  avez  la  vision  suivante: «Nous  voulons améliorer la vie des Bordelais».Vous vous lancez donc dans la création d’un produit qui saura répondre à cette problématique. Attention, vous voulez être très efficace et proposer votre projet  en  moins  de  48h!
 
-### Collaborateurs
+## Collaborateurs
 
 - Demaneche Antonin
 - Trouvat Jeremy
@@ -11,14 +11,14 @@
 
 <hr>
 
-### Logo du site
+## Logo du site
 
 <p align="center"><img src="https://raw.githubusercontent.com/Mockinbrd/challenge-48h-14mai/master/0-logo/edge-water-logo-white.jpg?token=AKLGF5JXM6IG4QC2E2BGPE26YZZXI" width="420px"></p>
 
 
 <hr>
 
-### Charte Graphique 
+## Charte Graphique 
 
 ![10% center](/0-charte-graphique/couleurs.jpg)
 
