@@ -26,8 +26,8 @@ Route::get('/tourisme', function () {
 Route::get('/selections', function () {
     return view('selections.index');
 });
-Route::get('/restaurant', function () {
-    return view('restaurant.index');
+Route::get('/restaurants', function () {
+    return view('restaurants.index');
 });
 Route::get('/comparatives', function () {
     return view('comparatives.index');
