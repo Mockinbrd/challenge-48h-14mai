@@ -8,24 +8,30 @@
 <body>
 
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
-    <a class="navbar-brand" href="#">Edge Water</a>
+    <a class="navbar-brand" href="#"><img class="" src="{{ asset('images/edge-water-logo-white.jpg') }}" alt="" width="128px"></a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor03" aria-controls="navbarColor03" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
     </button>
 
-    <div class="collapse navbar-collapse" id="navbarColor03">
+    <div class="collapse navbar-collapse text-center" id="navbarColor03">
         <ul class="navbar-nav mr-auto">
             <li class="nav-item active">
                 <a class="nav-link" href="#">Accueil<span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">Features</a>
+                <a class="nav-link" href="#">Tourisme</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">Pricing</a>
+                <a class="nav-link" href="#">Commerces</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">About</a>
+                <a class="nav-link" href="#">Restaurants</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">Nos sélections</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">Cartes comparatives</a>
             </li>
         </ul>
         <form class="form-inline my-2 my-lg-0">
