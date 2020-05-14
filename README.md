@@ -36,3 +36,11 @@ Objectif :
 -	<span style="color: #81A094"> :deciduous_tree: **Vert**</span> : Représente les différents espaces verts de la ville.
 
 -	<span style="color: #775B59">:grapes: **Rouge**</span> : Représente les monuments et restaurants qui apparaitront sur notre site. Fait référence à l'emblématique couleur du vin.
+
+<hr>
+
+## Spécificités du site
+
+<p align="left">**Sélections :**</p>
+<p align="center">**Cartes comparatives :**</p>
+<p align="right">**Bon plans :**</p>
