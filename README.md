@@ -6,11 +6,12 @@
 Objectif : 
 1.	Référencement naturel
 2.	Sélections et articles (avis)
-3.	Mettre en avant les commerçants ayant contribuer (suffisamment) financièrement
-4.	Mettre en compétition les lieux entre eux pour augmenter la valeur des placements
+3.	Obtenir sufissament de visibilité pour légitimité un démarcharge
+4.	Mettre en avant les commerçants ayant contribuer (suffisamment) financièrement
+5.	Mettre en compétition les lieux entre eux pour augmenter la valeur des placements
 
 
-### Collaborateurs
+## Collaborateurs
 
 - Demaneche Antonin
 - Trouvat Jeremy
