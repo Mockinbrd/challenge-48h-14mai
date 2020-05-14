@@ -16,22 +16,22 @@
     <div class="collapse navbar-collapse text-center" id="navbarColor03">
         <ul class="navbar-nav mr-auto">
             <li class="nav-item active">
-                <a class="nav-link" href="#">Accueil<span class="sr-only">(current)</span></a>
+                <a class="nav-link" href="/home">Accueil<span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">Tourisme</a>
+                <a class="nav-link" href="/tourisme">Tourisme</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">Commerces</a>
+                <a class="nav-link" href="/commerces">Commerces</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">Restaurants</a>
+                <a class="nav-link" href="/restaurants">Restaurants</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">Nos sélections</a>
+                <a class="nav-link" href="/selections">Nos sélections</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">Cartes comparatives</a>
+                <a class="nav-link" href="/comparatives">Cartes comparatives</a>
             </li>
         </ul>
         <form class="form-inline my-2 my-lg-0">
