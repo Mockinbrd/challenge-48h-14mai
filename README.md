@@ -3,7 +3,7 @@ Vous  êtes  une  jeune  startup  à  Bordeaux.  Vous  avez  la  vision  suivant
 
 #### Collaborateurs
 
-	- Demaneche Antonin
-	- Trouvat Jeremy
-	- Fargues Manon
-	- Aboulicam Marvin
+- Demaneche Antonin
+- Trouvat Jeremy
+- Fargues Manon
+- Aboulicam Marvin
