@@ -1,8 +1,14 @@
 # challenge-48h-14mai
 
-**Contexte** : Vous  êtes  une  jeune  startup  à  Bordeaux.  Vous  avez  la  vision  suivante: «Nous  voulons améliorer la vie des Bordelais».Vous vous lancez donc dans la création d’un produit qui saura répondre à cette problématique. Attention, vous voulez être très efficace et proposer votre projet  en  moins  de  48h!
+**Enoncé** : Vous  êtes  une  jeune  startup  à  Bordeaux.  Vous  avez  la  vision  suivante: «Nous  voulons améliorer la vie des Bordelais».Vous vous lancez donc dans la création d’un produit qui saura répondre à cette problématique. Attention, vous voulez être très efficace et proposer votre projet  en  moins  de  48h!
 
-**Descriptif du projet :** Site regroupant commerces et lieux touristiques classés par système de notation. Objectif : Mettre en compétition les lieux entre eux et mettre en avant ceux ayant contribuer (suffisamment) financièrement.
+**Descriptif du projet :** Site regroupant commerces et lieux touristiques classés par système de notation.<br> 
+Objectif : 
+1.	Référencement naturel
+2.	Sélections et articles(avis)
+3.	Mettre en avant les commerçants ayant contribuer (suffisamment) financièrement
+4.	Mettre en compétition les lieux entre eux pour augmenter la valeur des placements
+
 
 ### Collaborateurs
 
