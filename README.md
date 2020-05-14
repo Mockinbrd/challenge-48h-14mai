@@ -12,7 +12,7 @@ Vous  êtes  une  jeune  startup  à  Bordeaux.  Vous  avez  la  vision  suivant
 
 ![40% center](Capture.PNG)
 
-Nous avons choisi le premier bleu pour la couleur du ciel, le second pour la garonne.  
+Nous avons choisi le bleu pour la garonne.  
 Le vert représente les différents espaces verts de la ville.  
 Le premier rouge correspond aux monuments/restaurants qui vont paraîtrent sur notre site.  
-Le dernier rouge correspond au rouge Bordeaux.
+Le dernier rouge correspond au rouge Bordeaux ainsi qu'au vin.
