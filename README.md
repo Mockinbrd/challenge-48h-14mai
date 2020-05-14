@@ -10,7 +10,7 @@ Vous  êtes  une  jeune  startup  à  Bordeaux.  Vous  avez  la  vision  suivant
 
 #### Charte Graphique
 
-![40% center](/charte-graphique/couleurs.jpg)
+![40% center](/0-charte-graphique/couleurs.jpg)
 
 Nous avons choisi le bleu pour la garonne.  
 Le vert représente les différents espaces verts de la ville.  
