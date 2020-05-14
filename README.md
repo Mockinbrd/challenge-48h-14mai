@@ -41,6 +41,6 @@ Objectif :
 
 ## Spécificités du site
 
-<p align="left">**Sélections :**</p>
-<p align="center">**Cartes comparatives :**</p>
-<p align="right">**Bon plans :**</p>
+**Exemple d'un article :**
+
+**Cartes comparatives :**
