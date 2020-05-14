@@ -13,9 +13,7 @@
 
 ### Logo du site
 
-![10% center](/0-logo/edgewater-logo.jpg)
-
-<p align="center"><img src="https://raw.githubusercontent.com/Mockinbrd/challenge-48h-14mai/master/0-logo/edgewater-logo.jpg?token=AKLGF5IUBE3PQN5Z3PLW5WK6YZZKE" width="420px"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Mockinbrd/challenge-48h-14mai/master/0-logo/edgewater-logo-white.jpg?token=AKLGF5IUBE3PQN5Z3PLW5WK6YZZKE" width="420px"></p>
 
 
 <hr>
