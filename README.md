@@ -1,5 +1,6 @@
 # challenge-48h-14mai
-Vous  êtes  une  jeune  startup  à  Bordeaux.  Vous  avez  la  vision  suivante: «Nous  voulons améliorer la vie des Bordelais».Vous vous lancez donc dans la création d’un produit qui saura répondre à cette problématique. Attention, vous voulez être très efficace et proposer votre projet  en  moins  de  48h!
+
+Contexte : Vous  êtes  une  jeune  startup  à  Bordeaux.  Vous  avez  la  vision  suivante: «Nous  voulons améliorer la vie des Bordelais».Vous vous lancez donc dans la création d’un produit qui saura répondre à cette problématique. Attention, vous voulez être très efficace et proposer votre projet  en  moins  de  48h!
 
 #### Collaborateurs
 
@@ -12,7 +13,6 @@ Vous  êtes  une  jeune  startup  à  Bordeaux.  Vous  avez  la  vision  suivant
 
 ![40% center](/0-charte-graphique/couleurs.jpg)
 
-Nous avons choisi le bleu pour la garonne.  
-Le vert représente les différents espaces verts de la ville.  
-Le premier rouge correspond aux monuments/restaurants qui vont paraîtrent sur notre site.  
-Le dernier rouge correspond au rouge Bordeaux ainsi qu'au vin.
+<span style="color: #A8F9FF">Bleu</span> : Représente la couleur de la garonne.
+<span style="color: #81A094">Vert</span> : Représente les différents espaces verts de la ville.  
+<span style="color: #775B59">Rouge</span> : Représente les monuments et restaurants qui apparaitront sur notre site. Fait référence à l'emblématique couleur du vin.
