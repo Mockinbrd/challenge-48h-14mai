@@ -13,6 +13,8 @@ Contexte : Vous  êtes  une  jeune  startup  à  Bordeaux.  Vous  avez  la  visi
 
 ![40% center](/0-charte-graphique/couleurs.jpg)
 
-<span style="color: #A8F9FF">Bleu</span> : Représente la couleur de la garonne.
-<span style="color: #81A094">Vert</span> : Représente les différents espaces verts de la ville.  
-<span style="color: #775B59">Rouge</span> : Représente les monuments et restaurants qui apparaitront sur notre site. Fait référence à l'emblématique couleur du vin.
+<span style="color: #A8F9FF">:ocean: **Bleu**</span> : Représente la couleur de la garonne et le temps pluvieux.
+
+<span style="color: #81A094"> :deciduous_tree: **Vert**</span> : Représente les différents espaces verts de la ville.
+
+<span style="color: #775B59">:grapes: **Rouge**</span> : Représente les monuments et restaurants qui apparaitront sur notre site. Fait référence à l'emblématique couleur du vin.
