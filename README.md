@@ -7,3 +7,12 @@ Vous  êtes  une  jeune  startup  à  Bordeaux.  Vous  avez  la  vision  suivant
 - Trouvat Jeremy
 - Fargues Manon
 - Aboulicam Marvin
+
+#### Charte Graphique
+
+![40% center](Capture.PNG)
+
+Nous avons choisi le premier bleu pour la couleur du ciel, le second pour la garonne.  
+Le vert représente les différents espaces verts de la ville.  
+Le premier rouge correspond aux monuments/restaurants qui vont paraîtrent sur notre site.  
+Le dernier rouge correspond au rouge Bordeaux.
