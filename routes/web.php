@@ -20,3 +20,18 @@ Route::get('/', function () {
 Route::get('/home', function () {
     return view('index');
 });
+Route::get('/tourisme', function () {
+    return view('tourisme.index');
+});
+Route::get('/selections', function () {
+    return view('selection.index');
+});
+Route::get('/restaurant', function () {
+    return view('restaurant.index');
+});
+Route::get('/comparatives', function () {
+    return view('comparatives.index');
+});
+Route::get('/commerces', function () {
+    return view('commerces.index');
+});
