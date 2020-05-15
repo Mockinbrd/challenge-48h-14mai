@@ -23,10 +23,10 @@
     <div class = "container">
         <div>
             <hr>
-            <h2>Carte comparative des patisier :</h2>
+            <h2>Carte des meilleurs patissers :</h2>
             <img class = "img" src="https://cdn.discordapp.com/attachments/517364842659577858/710766195829112902/Carte_patisier.jpg" alt="">
             <hr>
-            <h2>Carte comparative des cordonniers :</h2>
+            <h2>Carte des meilleurs cordonniers :</h2>
             <img class = "img" src="https://media.discordapp.net/attachments/517364842659577858/710766944940195900/unknown.png?width=731&height=564" alt="">
         </div>
     </div>
