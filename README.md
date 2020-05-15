@@ -24,7 +24,7 @@
 
 ## La Start-up
 
-![10% center](/0-images/entreprise.png)
+<img src="https://github.com/Mockinbrd/challenge-48h-14mai/blob/master/0-images/entreprise.png" width="480px">
 
 <hr>
 
