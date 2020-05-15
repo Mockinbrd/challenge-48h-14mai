@@ -39,6 +39,12 @@ Objectif :
 
 <hr>
 
+## Business Model
+
+![Business Model](/0-images/business-model.jpg)
+
+<hr>
+
 ## Spécificités du site
 
 **Exemple d'un article :**
@@ -48,6 +54,8 @@ Objectif :
 **Cartes comparatives :**
 
 ![10% center](/0-images/carte.PNG)
+
+<hr>
 
 ## Problémes Rencontrés ##
 
