@@ -20,8 +20,8 @@ Route::get('/', function () {
 Route::get('/home', function () {
     return view('index');
 });
-Route::get('/tourisme', function () {
-    return view('tourisme.index');
+Route::get('/artisans', function () {
+    return view('artisans.index');
 });
 Route::get('/selections', function () {
     return view('selections.index');
