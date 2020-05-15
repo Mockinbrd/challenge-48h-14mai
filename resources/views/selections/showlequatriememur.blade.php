@@ -51,14 +51,33 @@
         <img class="fit-picture" src="{{ asset('images/selections/restau.jpg') }}" alt="restau">
         <h1>Le Quatrième Mur </h1>
         <p>2 place de la Comédie, Bordeaux, 33000, France</p>
-        <div class="rating">
-            <h4>!Votre avis nous interresse<h2><!--
-            --><a href="#5" title="Donner 5 étoiles">☆</a><!--
-            --><a href="#4" title="Donner 4 étoiles">☆</a><!--
-            --><a href="#3" title="Donner 3 étoiles">☆</a><!--
-            --><a href="#2" title="Donner 2 étoiles">☆</a><!--
-            --><a href="#1" title="Donner 1 étoile">☆</a>
-        </div>
+        <!-- ETOILES -->
+        <p class="ratingBox" itemprop="aggregateRating" itemscope itemtype="http://schema.xyz/AggregateRating">
+            <span title="3.42 / 5">
+            <svg height="16" width="16">
+            <polygon points="8,0 10.5,5 16,6 12,10 13,16 8,13 3,16 4,10 0,6 5.5,5" fill="Yellow" stroke="DarkKhaki" stroke-width=".5" />
+            </svg>
+            <svg height="16" width="16">
+            <polygon points="8,0 10.5,5 16,6 12,10 13,16 8,13 3,16 4,10 0,6 5.5,5" fill="Yellow" stroke="DarkKhaki" stroke-width=".5" />
+            </svg>
+            <svg height="16" width="16">
+            <polygon points="8,0 10.5,5 16,6 12,10 13,16 8,13 3,16 4,10 0,6 5.5,5" fill="Yellow" stroke="DarkKhaki" stroke-width=".5" />
+            </svg>
+            <svg height="16" width="16">
+            <defs>
+                <linearGradient id="starGradient">
+                <stop offset="42%" stop-color="Yellow"/>
+                <stop offset="42%" stop-color="LightGrey"/>
+                </linearGradient>
+            </defs>
+            <polygon points="8,0 10.5,5 16,6 12,10 13,16 8,13 3,16 4,10 0,6 5.5,5" fill="url(#starGradient)" stroke="DarkKhaki" stroke-width=".5" />
+            </svg>
+            <svg height="16" width="16">
+            <polygon points="8,0 10.5,5 16,6 12,10 13,16 8,13 3,16 4,10 0,6 5.5,5"  fill="LightGrey" stroke="DimGray" stroke-width=".5" />
+            </svg>
+            </span>
+            <span style="display:none;"><span itemprop="ratingValue" class="rating" title="3.42">3.42</span><span > / </span><span itemprop="bestRating">5</span></span>
+            </p>
         <div>
         <p>Concernant les tarifs : €€</p>
         <br>
