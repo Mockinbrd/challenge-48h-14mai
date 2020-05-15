@@ -1,5 +1,7 @@
 @extends('layouts.default')
 @section('content')
+    <h2>Restaurants italiens</h2>
+
     <div class="card-group">
         <div class="card px-2">
             <img class="card-img-top" style="height: 265px" src="{{ asset('images/restaurants/cancres.jpg') }}" alt="Card image cap">
