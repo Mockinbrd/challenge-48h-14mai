@@ -10,7 +10,7 @@
   <div class="card px-2">
     <img class="card-img-top" style="height: 265px" src="https://media-cdn.tripadvisor.com/media/photo-s/14/d0/3d/55/la-brasserie-le-quatrieme.jpg" alt="Card image cap">
     <div class="card-body">
-      <h5 class="card-title">Le Quatrième Mur</h5>
+      <h5 class="card-title"><a href="/selections/lequatriememur">Le Quatrième Mur</a></h5>
       <p class="card-text">Fine cuisine française à la présentation soignée, servie dans une salle à l'élégance classique ornée d'arches.</p>
       <p class="card-text"><small class="text-muted">Last updated 1 day ago</small></p>
     </div>

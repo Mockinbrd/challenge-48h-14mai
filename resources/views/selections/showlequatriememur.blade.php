@@ -27,7 +27,7 @@
 <body>
     <div class="container">
         <!-- Content here -->
-        <img class="fit-picture" src="restau.jpg" alt="restau">
+        <img class="fit-picture" src="{{ asset('images/selections/restau.jpg') }}" alt="restau">
         <h1>Le Quatrième Mur</h1>
         <p>2 place de la Comédie, Bordeaux, 33000, France</p>
         <br>
@@ -39,20 +39,20 @@
             et un jus : Philippe Etchebest va à l'essentiel et nous
             régale en toute simplicité.</p>
         <br>
-        <p> <img class="img" src="assiette.PNG" alt="restau"> Assiette • qualité des produits et tour de main du
+        <p> <img class="img" src="{{ asset('images/selections/assiette.PNG') }}" alt="restau"> Assiette • qualité des produits et tour de main du
             chef : un bon repas tout simplement</p>
-        <p> <img class="img" src="couvert.PNG" alt="restau"> Standing simple. Nos plus belles adresses.</p>
+        <p> <img class="img" src="{{ asset('images/selections/couvert.PNG') }}" alt="restau"> Standing simple. Nos plus belles adresses.</p>
 
         <h3>Equipements et services</h3>
-        <p> <img class="img" src="vin.PNG" alt="restau"> Bonne sélection de vins</p>
-        <p> <img class="img" src="dehors.PNG" alt="restau"> Possibilité de manger dehors</p>
-        <p> <img class="img" src="carte.PNG" alt="restau"> Etablissement réservé partiellement ou entièrement aux
+        <p> <img class="img" src="{{ asset('images/selections/vin.PNG') }}" alt="restau"> Bonne sélection de vins</p>
+        <p> <img class="img" src="{{ asset('images/selections/dehors.PNG') }}" alt="restau"> Possibilité de manger dehors</p>
+        <p> <img class="img" src="{{ asset('images/selections/carte.PNG') }}" alt="restau"> Etablissement réservé partiellement ou entièrement aux
             non-fumeurs</p>
-        <p> <img class="img" src="clope.PNG" alt="restau"> Carte de crédit American Express</p>
+        <p> <img class="img" src="{{ asset('images/selections/clope.PNG') }}" alt="restau"> Carte de crédit American Express</p>
 
         <h3>Informations pratiques</h3>
-        <p><img class="img" src="tel.PNG" alt="restau"> +33 5 56 02 49 70</p>
-        <p><img class="img" src="site.PNG" alt="restau"> www.quatrieme-mur.com</p>
+        <p><img class="img" src="{{ asset('images/selections/tel.PNG') }}" alt="restau"> +33 5 56 02 49 70</p>
+        <p><img class="img" src="{{ asset('images/selections/site.PNG') }}" alt="restau"> www.quatrieme-mur.com</p>
         <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
             integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous">
         </script>

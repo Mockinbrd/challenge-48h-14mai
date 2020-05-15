@@ -35,3 +35,6 @@ Route::get('/comparatives', function () {
 Route::get('/commerces', function () {
     return view('commerces.index');
 });
+Route::get('/selections/lequatriememur', function () {
+    return view('selections.showlequatriememur');
+});
