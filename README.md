@@ -47,6 +47,8 @@ Objectif :
 
 **Cartes comparatives :**
 
+![10% center](/0-images/carte.PNG)
+
 ## Problémes Rencontrés ##
 
 - Le temps était une première contrainte, une méthode de gestion de projets est vraiment nécessaire dans ce genre de travails groupés.
