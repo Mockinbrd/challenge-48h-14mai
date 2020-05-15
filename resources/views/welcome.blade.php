@@ -80,9 +80,9 @@
             @endif
 
             <div class="content">
-                <div class="title m-b-md">
+                <a href="{{url('/home')}}"><div class="title m-b-md">
                     EDGE WATER
-                </div>
+                </div></a>
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Docs</a>
