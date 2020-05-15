@@ -43,4 +43,14 @@ Objectif :
 
 **Exemple d'un article :**
 
+![10% center](/0-images/article.PNG)
+
 **Cartes comparatives :**
+
+![10% center](/0-images/carte.PNG)
+
+## Problémes Rencontrés ##
+
+- Le temps était une première contrainte, une méthode de gestion de projets est vraiment nécessaire dans ce genre de travails groupés.
+- La taille du groupe, travailler à quatre personne et se répartir le travail n'est pas toujours simple.
+- Le choix du projet n'était pas simple, il nous fallait une véritable idée intérresante et il était parfois compliqué d'accorder les avis.
