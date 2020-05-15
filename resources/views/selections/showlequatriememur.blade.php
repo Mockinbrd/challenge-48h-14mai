@@ -81,7 +81,7 @@
         <div>
         <p>Concernant les tarifs : €€</p>
         <br>
-        <h3>L'avis du Guide MICHELIN</h3>
+        <h3>L'avis de Edge Water</h3>
         <p>Au théâtre, le quatrième mur est celui, invisible,
             qui sépare le public de la scène. Un nom tout choisi
             pour cette table installée dans les ors du Grand théâtre !
