@@ -80,7 +80,7 @@
             @endif
 
             <div class="content">
-                <a href="{{url('/home')}}"><div class="title m-b-md">
+                <a href="{{url('/home')}}"><div class="title m-b-md" style="text-decoration: none">
                     EDGE WATER
                 </div></a>
 

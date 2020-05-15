@@ -19,10 +19,7 @@
                 <a class="nav-link" href="/home">Accueil<span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="/tourisme">Tourisme</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="/commerces">Commerces</a>
+                <a class="nav-link" href="/tourisme">Artisans</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="/restaurants">Restaurants</a>
