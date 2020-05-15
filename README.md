@@ -22,6 +22,18 @@
 
 <hr>
 
+## La Start-up
+
+![10% center](/0-images/entreprise.png)
+
+<hr>
+
+## L'équipe
+
+![10% center](/0-images/equipe.png)
+
+<hr>
+
 ## LOGO DU SITE
 
 <p align="center"><img src="https://raw.githubusercontent.com/Mockinbrd/challenge-48h-14mai/master/0-logo/edge-water-logo-white.jpg?token=AKLGF5JXM6IG4QC2E2BGPE26YZZXI" width="420px"></p>
