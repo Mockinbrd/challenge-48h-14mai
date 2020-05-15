@@ -1,3 +1,5 @@
+@extends('layouts.default')
+@section('content')
 <!DOCTYPE html>
 <html lang="en">
 
@@ -14,6 +16,25 @@
         width: 35px;
     }
 
+    /* étoiles */
+    .rating {
+    direction: rtl;
+    }
+    .rating a {
+    color: #aaa;
+    text-decoration: none;
+    font-size: 1.5em;
+    transition: color .4s;
+    }
+    .rating a:hover,
+    .rating a:focus,
+    .rating a:hover ~ a,
+    .rating a:focus ~ a {
+    color: orange;
+    cursor: pointer;
+    }
+
+
 </style>
 
 <head>
@@ -28,8 +49,18 @@
     <div class="container">
         <!-- Content here -->
         <img class="fit-picture" src="{{ asset('images/selections/restau.jpg') }}" alt="restau">
-        <h1>Le Quatrième Mur</h1>
+        <h1>Le Quatrième Mur </h1>
         <p>2 place de la Comédie, Bordeaux, 33000, France</p>
+        <div class="rating">
+            <h4>!Votre avis nous interresse<h2><!--
+            --><a href="#5" title="Donner 5 étoiles">☆</a><!--
+            --><a href="#4" title="Donner 4 étoiles">☆</a><!--
+            --><a href="#3" title="Donner 3 étoiles">☆</a><!--
+            --><a href="#2" title="Donner 2 étoiles">☆</a><!--
+            --><a href="#1" title="Donner 1 étoile">☆</a>
+        </div>
+        <div>
+        <p>Consernant les tarifs : €€</p>
         <br>
         <h3>L'avis du Guide MICHELIN</h3>
         <p>Au théâtre, le quatrième mur est celui, invisible,
@@ -67,3 +98,4 @@
 </body>
 
 </html>
+@endsection
