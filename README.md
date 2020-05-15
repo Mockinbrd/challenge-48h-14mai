@@ -5,7 +5,7 @@
 **Descriptif du projet :** Site regroupant commerces et lieux touristiques classés par système de notation.<br>
 
 **Objectif :**
- 
+
 1.	Référencement naturel
 2.	Sélections et articles (avis)
 3.	Obtenir sufissament de visibilité pour légitimité un démarcharge
@@ -51,7 +51,7 @@
 
 **Exemple d'un article :**
 
-![10% center](/0-images/article.PNG)
+![10% center](/0-images/article.jpg)
 
 **Cartes comparatives :**
 
