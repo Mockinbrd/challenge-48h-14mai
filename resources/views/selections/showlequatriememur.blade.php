@@ -60,7 +60,7 @@
             --><a href="#1" title="Donner 1 étoile">☆</a>
         </div>
         <div>
-        <p>Consernant les tarifs : €€</p>
+        <p>Concernant les tarifs : €€</p>
         <br>
         <h3>L'avis du Guide MICHELIN</h3>
         <p>Au théâtre, le quatrième mur est celui, invisible,
