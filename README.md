@@ -67,6 +67,4 @@
 
 ## Lien du PowerPoint
 
-![10% center](/0-presentation-pptx/projet-48h.pptx)
-
-<a href="/0-presentation-pptx/projet-48h.pptx">Lien vers la présentation</a>
+<a href="/0-presentation-pptx/">Lien vers la présentation</a>
