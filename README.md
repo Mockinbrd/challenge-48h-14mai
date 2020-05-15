@@ -44,3 +44,9 @@ Objectif :
 **Exemple d'un article :**
 
 **Cartes comparatives :**
+
+## Problémes Rencontrés ##
+
+- Le temps étais une premiére contrainte, une méthode de gestion de projet est vraiment nécésaire dans ce genre de travails groupés.
+- La taille du groupe, travailler a quatre personne et se répartir le travails n'est pas toujours simple.
+- Le choix du projet n'étais pas simple, il nous fallait une véritable idée interresante et il étais parfois conpliquer d'accorder les avis.
