@@ -43,6 +43,8 @@ Objectif :
 
 **Exemple d'un article :**
 
+![10% center](/0-images/article.PNG)
+
 **Cartes comparatives :**
 
 ## Problémes Rencontrés ##
