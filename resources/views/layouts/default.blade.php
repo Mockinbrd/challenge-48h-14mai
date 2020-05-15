@@ -15,9 +15,6 @@
 
     <div class="collapse navbar-collapse text-center" id="navbarColor03">
         <ul class="navbar-nav mr-auto">
-            <li class="nav-item active">
-                <a class="nav-link" href="/home">Accueil<span class="sr-only">(current)</span></a>
-            </li>
             <li class="nav-item">
                 <a class="nav-link" href="/artisans">Artisans</a>
             </li>
