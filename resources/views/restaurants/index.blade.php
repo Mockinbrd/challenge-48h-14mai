@@ -2,36 +2,46 @@
 @section('content')
     <h1>Restaurants</h1>
 
-    <div class="card-group">
-        <div class="card px-2">
-            <img class="card-img-top" style="height: 265px" src="{{ asset('images/restaurants/yumi.jpg') }}" alt="Card image cap">
-            <div class="card-body">
-                <h5 class="card-title">Restaurant Yumi</h5>
-                <p class="card-text">Adresse : 76 Quai des Chartrons</p>
-                <p class="card-text">Tel : +33 5 57 10 74 14</p>
-                <p class="card-text">FOURCHETTE DE PRIX : 5€ - 20€</p>
-                <p class="card-text">CUISINES : Japonaise, Sushi, Asiatique</p>
+    <section class="pt-5 pb-5">
+        <div class="container w-100">
+            <div class="row align-content-center">
+                <a class="card p-2 col-md-3  no-gutters text-white   " href="/restaurants/français">
+                    <img class="card-img h-100 shadow" src="{{ asset('images/restaurants/res_fr.jpg') }}" alt="Card image">
+                    <div class="card-img-overlay p-1 d-flex  flex-column  align-items-baseline justify-content-center ">
+                        <div class="container-fluid  h-50  text-center">
+                            <div class="row h-100 align-items-center">
+                                <div class="col-12">
+                                    <h2 class="mt-3 mb-3 text-white bg-dark">Français</h2>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                <a class="card p-2 col-md-3  no-gutters text-white   " href="/restaurants/italien">
+                    <img class="card-img h-100 shadow" src="{{ asset('images/restaurants/res_ita.jpg') }}" alt="Card image">
+                    <div class="card-img-overlay p-1 d-flex  flex-column  align-items-baseline justify-content-center ">
+                        <div class="container-fluid  h-50  text-center">
+                            <div class="row h-100 align-items-center">
+                                <div class="col-12">
+                                    <h2 class="mt-3 mb-3 text-white bg-dark">Italien</h2>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                <a class="card p-2 col-md-3  no-gutters text-white   " href="/restaurants/asiatique">
+                    <img class="card-img h-100 shadow" src="{{ asset('images/restaurants/res_asi.jpg') }}" alt="Card image">
+                    <div class="card-img-overlay p-1 d-flex  flex-column  align-items-baseline justify-content-center ">
+                        <div class="container-fluid  h-50  text-center">
+                            <div class="row h-100 align-items-center">
+                                <div class="col-12">
+                                    <h2 class="mt-3 mb-3 text-white bg-dark">Asiatique</h2>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </a>
             </div>
         </div>
-        <div class="card px-2">
-            <img class="card-img-top" style="height: 265px" src="{{ asset('images/restaurants/cancres.jpg') }}" alt="Card image cap">
-            <div class="card-body">
-                <h5 class="card-title">Les Cancres</h5>
-                <p class="card-text">Adresse : 3 rue David Johnston</p>
-                <p class="card-text">Tel : +33 5 57 22 06 63</p>
-                <p class="card-text">FOURCHETTE DE PRIX : 11€ - 15€</p>
-                <p class="card-text">CUISINES : Pizza, Italienne</p>
-            </div>
-        </div>
-        <div class="card px-2">
-            <img class="card-img-top" style="height: 265px" src="{{ asset('images/restaurants/collation.jpg') }}" alt="Card image cap">
-            <div class="card-body">
-                <h5 class="card-title">La Collation</h5>
-                <p class="card-text">Adresse : 5 rue de Guienne</p>
-                <p class="card-text">Tel : +33 9 73 56 46 20</p>
-                <p class="card-text">FOURCHETTE DE PRIX : 3€ - 21€</p>
-                <p class="card-text">CUISINES : Française, Américaine, Cuisine de rue (street food)</p>
-            </div>
-        </div>
-    </div>
+    </section>
 @endsection

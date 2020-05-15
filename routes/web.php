@@ -38,3 +38,12 @@ Route::get('/commerces', function () {
 Route::get('/selections/lequatriememur', function () {
     return view('selections.showlequatriememur');
 });
+Route::get('/restaurants/français', function () {
+    return view('restaurants.français');
+});
+Route::get('/restaurants/italien', function () {
+    return view('restaurants.italien');
+});
+Route::get('/restaurants/asiatique', function () {
+    return view('restaurants.asiatique');
+});
