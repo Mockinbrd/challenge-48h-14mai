@@ -23,7 +23,7 @@
                         <div class="container-fluid  h-50  text-center">
                             <div class="row h-100 align-items-center">
                                 <div class="col-12">
-                                    <h2 class="mt-3 mb-3 text-white bg-dark">Ebéniste</h2>
+                                    <h2 class="mt-3 mb-3 text-white bg-dark">Ebeniste</h2>
                                 </div>
                             </div>
                         </div>
